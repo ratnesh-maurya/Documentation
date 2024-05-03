@@ -8,15 +8,15 @@ const config: Config = {
   favicon: "img/logo_new.png",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "docs.initilaiz.ai",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/Documentation",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "initializ", // Usually your GitHub org/user name.
-  projectName: "Documentation-Template", // Usually your repo name.
+  organizationName: "/ratnesh-maurya", // Usually your GitHub org/user name.
+  projectName: "Documentation", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
