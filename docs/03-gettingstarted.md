@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 description: "This will guide to the Getting Started  on the Initializ Console."
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Getting Started

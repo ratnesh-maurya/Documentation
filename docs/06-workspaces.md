@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: "Workspaces"
 description: "This will guide to the quick start apps on the Initializ  Workspaces."
 ---

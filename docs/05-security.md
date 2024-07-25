@@ -1,7 +1,7 @@
 ---
 title: "Security"
 description: "This will guide to the security of the apps on  the Initializ Console."
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Security
