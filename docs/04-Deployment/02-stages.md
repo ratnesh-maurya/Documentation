@@ -40,7 +40,7 @@ description: "This will guide to the Stages of apps on the Initializ Console."
   Vulnerabilities often arise due to older and exploitable dependencies. Most of these are easily fixable.
 
   To check Highly critical vulnerabilities, glance over on the Security meter.
-  [**Security Page**](../04-security.md)
+  [**Security Page**](../05-security.md)
 
   ![addr_vulnerability](/assets/deploy_stages/addr_vulnerability.png)
   \*\* _Snippet of Security metrics for a newly deployed application_.
